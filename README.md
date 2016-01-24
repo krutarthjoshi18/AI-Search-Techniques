@@ -1,4 +1,4 @@
-# ArtificialIntelligence
+# Artificial Intelligence
 Code for the initial games from the book of Artificial Intelligence by Russell and Norvig
 
 1. BFS, DFS for the 8 puzzle problem

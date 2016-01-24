@@ -1,5 +1,5 @@
-# CS411ArtificialIntelligence
-Code for the programming assignment for CS411- Artificial Intelligence
+# ArtificialIntelligence
+Code for the initial games from the book of Artificial Intelligence by Russell and Norvig
 
 1. BFS, DFS for the 8 puzzle problem
 2. Iterative Deepening DFS (ID-DFS) for the 15 puzzle problem
